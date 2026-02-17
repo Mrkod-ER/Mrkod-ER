@@ -15,11 +15,6 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrkod-ER&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mrkod-ER&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="180" alt="languages graph" />
-</div>
-
 <br/>
 
 <div align="center"> 
@@ -114,10 +109,3 @@
 
 <br/>
 
-<div align="center"> 
-  <img src="https://github-profile-trophy.vercel.app?username=Mrkod-ER&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="trophy graph" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mrkod-ER/Mrkod-ER/output/snake.svg" alt="Snake animation" />
-</div>
