@@ -16,12 +16,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Mrkod-ER">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mrkod-ER&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  </a>
-  <a href="https://github.com/Mrkod-ER">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mrkod-ER&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=true" height="180" alt="languages graph"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrkod-ER&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mrkod-ER&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="180" alt="languages graph" />
 </div>
 
 <br/>
